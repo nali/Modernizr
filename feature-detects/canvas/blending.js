@@ -2,7 +2,6 @@
 {
   "name": "canvas blending support",
   "property": "canvasblending",
-  "caniuse": "canvas-blending",
   "tags": ["canvas"],
   "notes": [{
       "name": "W3C Spec",
